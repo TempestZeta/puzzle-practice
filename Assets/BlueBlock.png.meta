@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 99b9b8a998778b54d94f389b4e682638
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3643532769112741077
+    second: BlueBlock_0
+  - first:
+      213: -1886255672718592852
+    second: BlueBlock_1
+  - first:
+      213: -7925771721345779211
+    second: BlueBlock_2
+  - first:
+      213: 9070142962987338927
+    second: BlueBlock_3
+  - first:
+      213: 1288136832553825319
+    second: BlueBlock_4
+  - first:
+      213: -156707491480841501
+    second: BlueBlock_5
+  - first:
+      213: 5223361206796108945
+    second: BlueBlock_6
+  - first:
+      213: -6342573721553439316
+    second: BlueBlock_7
+  - first:
+      213: 7185697085415293884
+    second: BlueBlock_8
+  - first:
+      213: 1821091322511918737
+    second: BlueBlock_9
+  - first:
+      213: 4200164011165173597
+    second: BlueBlock_10
+  - first:
+      213: -3994782085903077822
+    second: BlueBlock_11
+  - first:
+      213: -9008861984804645227
+    second: BlueBlock_12
+  - first:
+      213: -3327385832651402167
+    second: BlueBlock_13
+  - first:
+      213: 7701266457987614662
+    second: BlueBlock_14
+  - first:
+      213: -8691893850409448191
+    second: BlueBlock_15
+  - first:
+      213: 7979577975729053869
+    second: BlueBlock_16
+  - first:
+      213: 6677042072427267564
+    second: BlueBlock_17
+  - first:
+      213: 5294304497919734904
+    second: BlueBlock_18
+  - first:
+      213: 6816487150369678810
+    second: BlueBlock_19
+  - first:
+      213: 6311159375134125682
+    second: BlueBlock_20
+  - first:
+      213: 6292688789146951598
+    second: BlueBlock_21
+  - first:
+      213: -3561619959323335529
+    second: BlueBlock_22
+  - first:
+      213: 2335925152004341489
+    second: BlueBlock_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueBlock_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241db9c65f898a43a6efee7918f8c26
+      internalID: -3643532769112741077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479efaf985a58a43a16e469052d0066
+      internalID: -1886255672718592852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5548d6d66935b4fa2d2108b78fd8f5
+      internalID: -7925771721345779211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a836653d348a3454ca45a1edc5d838b1
+      internalID: 9070142962987338927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb770b4abdaa1140aa2f8f3b91d5810
+      internalID: 1288136832553825319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51049e3b5553e84ba4a1f692927fa83
+      internalID: -156707491480841501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e69aa2acf4024faf845b800250b7d
+      internalID: 5223361206796108945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c0916d033929640a75afa1c9d09670
+      internalID: -6342573721553439316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac459a42f17c11a41a8f196601d79b11
+      internalID: 7185697085415293884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedcfcaed5ce7540b596e909b1943d2
+      internalID: 1821091322511918737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873b86b9119af64c8f20e147ea4b377
+      internalID: 4200164011165173597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95890cdade506ef41be9ff41304aaeff
+      internalID: -3994782085903077822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02859a6703df2f1448cf07e2dfd4b0e7
+      internalID: -9008861984804645227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_13
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066b085368a89a4c86adbd6fed8809a
+      internalID: -3327385832651402167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9626ab1ed12014485aa326725cebd3
+      internalID: 7701266457987614662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573c92388fb1a4479ce1b25f7d48c3f
+      internalID: -8691893850409448191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a13f4ceae56b43bd71c4721510287
+      internalID: 7979577975729053869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e49e9e50840e4f9f8a988898c1099
+      internalID: 6677042072427267564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_18
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfce012cab9cd34aab96098f8e5c5b1
+      internalID: 5294304497919734904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_19
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08a8faf546d194e978146f503c1a69
+      internalID: 6816487150369678810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_20
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802061d087b7d2d4f9129df47cd89ad0
+      internalID: 6311159375134125682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_21
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea897cdb67a484fa18c0ca2c34e123
+      internalID: 6292688789146951598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1597e842a224548bda2d551cb1a860
+      internalID: -3561619959323335529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBlock_23
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 64.375
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8ec3d0148636943acab0a1ed70e175
+      internalID: 2335925152004341489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18d2e9579419dd84da4bb6929e88ea25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
